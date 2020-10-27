@@ -1,5 +1,5 @@
 # Lockme
-A simple PoC of ransomeware developed in python3
+A simple PoC of ransomware developed in python3
 
 
 
@@ -63,4 +63,4 @@ To avoid errors when using pyinstaller change the boolean variable ```iamexe``` 
 
 * s4tak
 
-**//Regards
+**//Regards**
