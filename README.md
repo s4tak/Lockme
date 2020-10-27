@@ -55,7 +55,7 @@ To avoid errors when using pyinstaller change the boolean variable ```iamexe``` 
 
 
 
-** As I have already mentioned before, this tool is a PoC, I do not misuse that it can be given **
+**As I have already mentioned before, this tool is a PoC, I do not misuse that it can be given**
 
 
 
