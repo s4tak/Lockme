@@ -1,5 +1,5 @@
 # Lockme
-A simple PoC of ransomeware developed in python3
+A simple PoC of ransomware developed in python3
 
 
 
