@@ -63,4 +63,4 @@ To avoid errors when using pyinstaller change the boolean variable ```iamexe``` 
 
 * s4tak
 
-**//Regards
+**//Regards**
