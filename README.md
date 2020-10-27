@@ -8,7 +8,7 @@ A simple PoC of ransomeware developed in python3
 ![Screenshot](https://img.shields.io/badge/Language-Python%203-blue)
 ![Screenshot](https://img.shields.io/badge/Language-Php-blue)
 
-
+![Screenshot](Images/tenor.gif)
 
 
 ## How does Lockme work? 🚀
@@ -63,4 +63,4 @@ To avoid errors when using pyinstaller change the boolean variable ```iamexe``` 
 
 * s4tak
 
-//Regards
+**//Regards
