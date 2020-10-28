@@ -35,7 +35,7 @@ After this process, the victim of Lockme will get a GUI to decrypt his files
 
 
 
-_You have to modify the following variables with your options__
+_You have to modify the following variables with your options_
 ```
 13. server
 14. serverrsa
