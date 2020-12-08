@@ -44,7 +44,7 @@ _Tienes que modificar las siguientes variables con tus opciones_
 
 
 
-Para evitar errores al usar pyinstaller, cambie la variable booleana `` `iamexe``` a True.
+Para evitar errores al usar pyinstaller, cambie la variable booleana ```iamexe``` a True.
 
 
 
