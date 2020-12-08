@@ -1,6 +1,5 @@
 # Lockme
-A simple PoC of ransomware developed in python3
-
+Un simple PoC de ransomware desarrollado en python3
 
 
 ![Screenshot](https://img.shields.io/badge/Platform-Windows-brightgreen)
@@ -11,43 +10,41 @@ A simple PoC of ransomware developed in python3
 ![Screenshot](Images/tenor.gif)
 
 
-## How does Lockme work? 🚀
+## ¿Cómo funciona Lockme? 🚀
 
 
 
-Lockme scans the files in a previously defined directory or several, and encrypts them with Fernet, when it finishes encrypting the files, it encrypts the Fernet key with a public key of RSA-4096 and sends it to a server along with the ID of the victim.
+Lockme escanea los archivos en un directorio previamente definido (o en varios), y los encripta con Fernet, cuando termina de encriptar los archivos, encripta la clave Fernet con una clave pública de RSA-4096 y la envía a un servidor junto con el ID del víctima.
 
-After this process, the victim of Lockme will get a GUI to decrypt his files
-
-
-
-### Requirements 📋
+Después de este proceso, la víctima de Lockme obtendrá una GUI para descifrar sus archivos.
 
 
 
-* An RSA key pair
-* A web server where to receive the keys
-* Python3
+### Requisitos 📋
 
 
 
-### How use it? 🔧
+* Un par de claves RSA
+* Un servidor web donde recibir las claves
+
+
+### ¿Cómo se usa? 🔧
 
 
 
-_You have to modify the following variables with your options_
-```
+_Tienes que modificar las siguientes variables con tus opciones_
+''
 13. server
 14. serverrsa
 15. directories
-```
+''
 
 
-### Using Pyinstaller to get a exe 🛠️
+### Usando Pyinstaller para obtener un exe 🛠️
 
 
 
-To avoid errors when using pyinstaller change the boolean variable ```iamexe``` to true.
+Para evitar errores al usar pyinstaller, cambie la variable booleana `` `iamexe``` a True.
 
 
 
@@ -55,12 +52,11 @@ To avoid errors when using pyinstaller change the boolean variable ```iamexe``` 
 
 
 
-**As I have already mentioned before, this tool is a PoC, I do not misuse that it can be given**
+** Como ya mencioné antes, esta herramienta es un PoC, no uso mal que se le puede dar **
 
 
 
-### Authors ✒️
+### Autor ✒️
 
-* s4tak
+* **s4tak** - (https://github.com/s4tak)
 
-**//Regards**
