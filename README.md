@@ -52,7 +52,7 @@ Para evitar errores al usar pyinstaller, cambie la variable booleana ```iamexe``
 
 
 
-Como ya mencioné antes, esta herramienta es un PoC, no uso mal que se le pueda dar.
+Como ya mencioné antes, esto es una PoC, no uso mal que se le pueda dar.
 
 
 
