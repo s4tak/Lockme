@@ -33,11 +33,11 @@ Después de este proceso, la víctima de Lockme obtendrá una GUI para descifrar
 
 
 _Tienes que modificar las siguientes variables con tus opciones_
-''
-13. server
-14. serverrsa
-15. directories
-''
+
+* 13. server
+* 14. serverrsa
+* 15. directories
+
 
 
 ### Usando Pyinstaller para obtener un exe 🛠️
