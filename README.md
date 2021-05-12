@@ -40,7 +40,7 @@ _Tienes que modificar las siguientes variables con tus opciones_
 ```
 
 
-### Usando Pyinstaller para obtener un exe 🛠️
+### En caso de pasar el .py a .exe 🛠️
 
 
 
